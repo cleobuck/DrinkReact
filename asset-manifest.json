@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DrinkReact/static/css/main.3ce19a49.chunk.css",
+    "main.js": "/DrinkReact/static/js/main.a5da7a27.chunk.js",
+    "main.js.map": "/DrinkReact/static/js/main.a5da7a27.chunk.js.map",
+    "runtime~main.js": "/DrinkReact/static/js/runtime~main.6589b325.js",
+    "runtime~main.js.map": "/DrinkReact/static/js/runtime~main.6589b325.js.map",
+    "static/js/2.3d3e5e3a.chunk.js": "/DrinkReact/static/js/2.3d3e5e3a.chunk.js",
+    "static/js/2.3d3e5e3a.chunk.js.map": "/DrinkReact/static/js/2.3d3e5e3a.chunk.js.map",
+    "index.html": "/DrinkReact/index.html",
+    "precache-manifest.56813661ff6a484cc962d3df25e377d4.js": "/DrinkReact/precache-manifest.56813661ff6a484cc962d3df25e377d4.js",
+    "service-worker.js": "/DrinkReact/service-worker.js",
+    "static/css/main.3ce19a49.chunk.css.map": "/DrinkReact/static/css/main.3ce19a49.chunk.css.map",
+    "static/media/index.css": "/DrinkReact/static/media/fa-solid-900.ef3df984.eot",
+    "static/media/logo.svg": "/DrinkReact/static/media/logo.5d5d9eef.svg"
+  }
+}
